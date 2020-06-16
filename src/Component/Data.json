@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "username" : "Tran Van A",
+        "phone" : 123456789,
+        "permission" : "Admin"
+    },
+    {
+        "id" : 2,
+        "username" : "Tran Van B",
+        "phone" : 1088466809,
+        "permission" : "Normal"
+    },
+    {
+        "id" : 3,
+        "username" : "Le Thi Bon",
+        "phone" : 123456789,
+        "permission" : "Modrator"
+    },
+    {
+        "id" : 4,
+        "username" : "Tran Van Anh",
+        "phone" : 78887886789,
+        "permission" : "Admin"
+    },
+    {
+        "id" : 5,
+        "username" : "Vo Quang",
+        "phone" : 123456789,
+        "permission" : "Normal"
+    },
+    {
+        "id" : 6,
+        "username" : "Yuki Wuang",
+        "phone" : 123456789,
+        "permission" : "Normal"
+    }
+]
